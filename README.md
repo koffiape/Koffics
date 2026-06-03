@@ -1,5 +1,5 @@
 # Koffics
-<h1>Hi, I'm Koffi! <br/><a <a href="https://www.linkedin.com/in/harid-akpoghenobor/">Identity and Access Management Professional with expertise in Entra ID, Okta, and CyberArk</a>
+<h1>Hi, I'm Koffi! <br/><a <a href="https://www.linkedin.com/in/harid-akpoghenobor/">  Computer Science student at the University of Virginia passionate about coding, fitness, running. Currently building projects, expanding my skills, and exploring new opportunities to learn and collaborate. Let's Connect and create something impactfull together! Identity and Access Management Professional with expertise in Entra ID, Okta, and CyberArk</a>
 <h2> Cybersecurity Projects:</h2>
 
 - <b>[Active Directory Domain Services and Integration with Okta and Entra ID](https://github.com/HaridinIT/Active-Directory-Domain-Services-and-Integration-with-Okta-and-EntraID-Project)</b>
