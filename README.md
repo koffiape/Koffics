@@ -30,6 +30,6 @@
 - Splunk Core Certified Power User (In Progress)
 
 <h2>  Connect with me:</h2>
-<a href="https://linkedin.com/in/harid-akpoghenobor" target="_blank">
+<a href="https://linkedin.com/in/koffi-apedoh" target="_blank">  www.linkedin.com/in/koffi-apedoh
   <img align="left" alt="HaridinIT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
