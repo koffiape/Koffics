@@ -5,10 +5,6 @@
 - <b>[Active Directory Domain Services and Integration with Okta and Entra ID](https://github.com/HaridinIT/Active-Directory-Domain-Services-and-Integration-with-Okta-and-EntraID-Project)</b>
  
 <h2>Certifications </h2>
-
-- [CompTIA Security+](https://www.credly.com/badges/e632e919-9ba3-412a-8206-0d1b69095b38)
-- [Azure Security Engineer Associate (AZ-500)](https://learn.microsoft.com/api/credentials/share/en-us/Harid-9529/694B3439B545FE8F?sharingId=CAB598562DEAC611)
-- [Google Cybersecurity Professional Certificate]()
 - Comptia Security+ (In progress)
 - Okta Certified Administrator (In Progress)
 - AWS Certified Cloud Practitioner (In Progress)
